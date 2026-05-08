@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables / API keys
+.env
+*.env
+
+# Data files
+data/
+datasets/
+*.csv
+*.xlsx
+*.json
+*.txt
+
+# Model files
+models/
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+
+# Results / outputs
+results/
+outputs/
+runs/
+
+# OS files
+.DS_Store
+Thumbs.db
